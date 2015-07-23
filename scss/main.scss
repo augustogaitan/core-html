@@ -21,6 +21,13 @@
 @import '../conditionizr/css/winPhone75.css';
 @import '../conditionizr/css/winPhone8.css';
 
+/*Llamar a font-awesome*/
+@import '../font-awesome/css/font-awesome.min.css';
+
+/*llamar al mediacuery responsive*/
+@import '../responsive/application.css';
+
+
 /*web*/
 @import 'variables';
 @import '../componentes/normalize-scss/_normalize.scss';
@@ -30,8 +37,6 @@
 @import 'generales';
 
 
-.nuevaclase{
+.titulo{
 	background:red;
-	width: 100px;
-	height: 100px;
 }

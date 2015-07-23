@@ -56,7 +56,6 @@ var MyApp = {
 
     seccion : {
         modulo : function() {
-            alert("asdfsadf");
         }
     }
 }
