@@ -1,0 +1,37 @@
+/*llamar a conditionizr*/
+@import '../conditionizr/css/chrome.css';
+@import '../conditionizr/css/chromium.css';
+@import '../conditionizr/css/firefox.css';
+@import '../conditionizr/css/ie6.css';
+@import '../conditionizr/css/ie7.css';
+@import '../conditionizr/css/ie8.css';
+@import '../conditionizr/css/ie9.css';
+@import '../conditionizr/css/ie10.css';
+@import '../conditionizr/css/ie10touch.css';
+@import '../conditionizr/css/ie11.css';
+@import '../conditionizr/css/ios.css';
+@import '../conditionizr/css/linux.css';
+@import '../conditionizr/css/mac.css';
+@import '../conditionizr/css/opera.css';
+@import '../conditionizr/css/retina.css';
+@import '../conditionizr/css/safari.css';
+@import '../conditionizr/css/touch.css';
+@import '../conditionizr/css/windows.css';
+@import '../conditionizr/css/winPhone7.css';
+@import '../conditionizr/css/winPhone75.css';
+@import '../conditionizr/css/winPhone8.css';
+
+/*web*/
+@import 'variables';
+@import '../componentes/normalize-scss/_normalize.scss';
+@import 'fuentes';
+@import 'ayudas';
+
+@import 'generales';
+
+
+.nuevaclase{
+	background:red;
+	width: 100px;
+	height: 100px;
+}
