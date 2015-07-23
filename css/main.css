@@ -20,6 +20,10 @@
 @import url(../conditionizr/css/winPhone7.css);
 @import url(../conditionizr/css/winPhone75.css);
 @import url(../conditionizr/css/winPhone8.css);
+
+/*Llamar a font-awesome*/
+@import url(../font-awesome/css/font-awesome.min.css);
+
 /*web*/
 /* ==========================================================================
    Normalize.scss settings
